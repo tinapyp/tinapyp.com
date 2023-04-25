@@ -4,7 +4,7 @@
 
 ### Analyzing Cyclist Bike Share Data
 
-We're using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. 🚲📱Our goal is to understand annual vs. regular riders and how digital media can increase membership. 📊📉Insights will be used to develop marketing campaigns and improve the user experience. 🚴‍♂️📈 Data is from Amazon Web Services.
+Using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. 🚲📱Our goal is to understand annual vs. regular riders and how digital media can increase membership. 📊📉Insights will be used to develop marketing campaigns and improve the user experience. 🚴‍♂️📈 Data is from Amazon Web Services.
 
 <img src="images\Cyclistic1.jpg?raw=true" />
 
@@ -28,7 +28,7 @@ We're using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 20
 
 ### Nashville Housing Data Cleaning
 
-I cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, populating property addresses 🏠, breaking down addresses into separate columns 📍, converting "Y" or "N" to "Yes" or "No" in "Sold as Vacant" field ✅, removing duplicates 🔍, and deleting unused columns 🗑️. I used various SQL commands, including SELECT, FROM, WHERE, GROUP BY, ORDER BY, CAST, CONVERT, COUNT, JOIN, ALTER TABLE, UPDATE, CASE WHEN-THEN-END, DISTINCT, SUBSTRING, ROW_NUMBER() PARTITION BY(), WITH, and PARSENAME.
+Cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, populating property addresses 🏠, breaking down addresses into separate columns 📍, converting "Y" or "N" to "Yes" or "No" in "Sold as Vacant" field ✅, removing duplicates 🔍, and deleting unused columns 🗑️. I used various SQL commands, including SELECT, FROM, WHERE, GROUP BY, ORDER BY, CAST, CONVERT, COUNT, JOIN, ALTER TABLE, UPDATE, CASE WHEN-THEN-END, DISTINCT, SUBSTRING, ROW_NUMBER() PARTITION BY(), WITH, and PARSENAME.
 
 [![](images\SQL.png)](#)
 
