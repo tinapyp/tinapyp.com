@@ -6,7 +6,9 @@
 
 We're using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. 🚲📱Our goal is to understand annual vs. regular riders and how digital media can increase membership. 📊📉Insights will be used to develop marketing campaigns and improve the user experience. 🚴‍♂️📈 Data is from Amazon Web Services.
 
-[![](images\Excel.png)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+<img src="images\Cyclistic1.jpg?raw=true" />
+
+[![](images\Excel.png)](#)
 
 [View more on Kaggle](https://www.kaggle.com/code/fathinafif/cyclistic-google-data-analytics-capstone-project)
 
@@ -18,7 +20,7 @@ We're using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 20
 
 <img src="images\E-com.png?raw=true" />
 
-[![](images\SQL.png)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](images\SQL.png)](#) [![](images\tableau.png)](#)
 
 [View code on Github](#)
 
@@ -28,7 +30,7 @@ We're using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 20
 
 I cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, populating property addresses 🏠, breaking down addresses into separate columns 📍, converting "Y" or "N" to "Yes" or "No" in "Sold as Vacant" field ✅, removing duplicates 🔍, and deleting unused columns 🗑️. I used various SQL commands, including SELECT, FROM, WHERE, GROUP BY, ORDER BY, CAST, CONVERT, COUNT, JOIN, ALTER TABLE, UPDATE, CASE WHEN-THEN-END, DISTINCT, SUBSTRING, ROW_NUMBER() PARTITION BY(), WITH, and PARSENAME.
 
-[![](images\SQL.png)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](images\SQL.png)](#)
 
 [View code on Github](https://github.com/fathinafif/NashvilleHousing_DataCleaning)
 
@@ -38,9 +40,12 @@ I cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, p
 
 Used Tableau to analyze Seattle Airbnb data and create research dashboards with insights on the best locations to buy a home for Airbnb businesses, purchase and rent prices by area, and customer price ranges by bedrooms. 📈🌟 The dashboard includes bar and geo maps, line graphs, and tables to help clients make informed decisions on starting an Airbnb business. 💻🏡
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
+<img src="images\Airbnb_Dashboard.png?raw=true" />
+
+[![](images\tableau.png)](#)
 
 [View Dashboard on Tableau](https://public.tableau.com/app/profile/fathin.afif/viz/2016SeattleWashingtonUnitedStatesAirbnb/Dashboard1#3)
+[View Documentation on Notion](https://lnkd.in/gBbRfH-c)
 
 ---
 
