@@ -4,7 +4,7 @@
 
 ### Analyzing Cyclist Bike Share Data
 
-Using Excel to clean, analyze, and visualize data from the Cyclistic for the period of November 2022 to January 2023. This dataset sourced from Amazon Web Services. The goal is to understand the difference between annual members and regular riders, why riders buy memberships, and how digital media can help increase membership for the Cyclistic bike-sharing program in Chicago. 🚲📱Through data analysis, I examine user patterns, preferences, and frequency of use to identify factors influencing user decisions. 📊📉 The results will be used to develop effective marketing campaigns to increase membership and improve the overall user experience. 🚴‍♂️📈
+We're using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. 🚲📱Our goal is to understand annual vs. regular riders and how digital media can increase membership. 📊📉Insights will be used to develop marketing campaigns and improve the user experience. 🚴‍♂️📈 Data is from Amazon Web Services.
 
 [![](images\Excel.png)](#) [![](images\SQL.png)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
