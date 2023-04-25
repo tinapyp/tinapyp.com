@@ -6,9 +6,9 @@
 
 Using Excel to clean, analyze, and visualize data from the Cyclistic for the period of November 2022 to January 2023. This dataset sourced from Amazon Web Services. The goal is to understand the difference between annual members and regular riders, why riders buy memberships, and how digital media can help increase membership for the Cyclistic bike-sharing program in Chicago. 🚲📱Through data analysis, I examine user patterns, preferences, and frequency of use to identify factors influencing user decisions. 📊📉 The results will be used to develop effective marketing campaigns to increase membership and improve the overall user experience. 🚴‍♂️📈
 
-[![](images\Excel.png)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](images\Excel.png)](#) [![](images\SQL.png)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View more on Kaggle](https://www.kaggle.com/code/fathinafif/cyclistic-google-data-analytics-capstone-project)
 
 ---
 
