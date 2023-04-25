@@ -45,6 +45,8 @@ Used Tableau to analyze Seattle Airbnb data and create research dashboards with 
 [![](images\tableau.png)](#)
 
 [View Dashboard on Tableau](https://public.tableau.com/app/profile/fathin.afif/viz/2016SeattleWashingtonUnitedStatesAirbnb/Dashboard1#3)
+<br>
+
 [View Documentation on Notion](https://lnkd.in/gBbRfH-c)
 
 ---
