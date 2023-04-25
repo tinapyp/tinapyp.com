@@ -55,8 +55,6 @@ Used Tableau to analyze Seattle Airbnb data and create research dashboards with 
 
 Automated Samsung SmartTag price tracking using Python script 🤖📈. Utilized BeautifulSoup & Requests libraries to extract data from Amazon webpage, and pandas library to monitor the data easily 📊. The script runs a while loop every 20 seconds to ensure periodic updates ⏰.
 
-<img src="images/london2.png?raw=true"/>
-
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
 
 [View code on Github](https://github.com/fathinafif/Samsung_SmartTag_Price_Tracker)
