@@ -75,7 +75,7 @@ BMI Calculator with Python on Jupyter Notebook to track my health 🏋️‍♀�
 
 ## Skills-based projects
 
-A selection of smaller projects demonstrating specific data science and ML skills.
+A selection of smaller projects demonstrating specific data analysis skills.
 
-- [Working in the cloud: Using data stored in AWS S3 buckets](#)
-- [Optimising code with multiprocessing](#)
+-
+-
