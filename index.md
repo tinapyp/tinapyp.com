@@ -22,7 +22,7 @@ We're using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 20
 
 [![](images\SQL.png)](#) [![](images\tableau.png)](#)
 
-[View code on Github](#)
+[View code on Github](https://github.com/fathinafif/E-Commerce_Sales_Analysis)
 
 ---
 
