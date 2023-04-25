@@ -1,9 +1,15 @@
-title: Fathin Afif
-logo: /assets/img/profile.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: false
-google_analytics:
+title: Fathin Afif # your name (or website title) here
+logo: "images/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Data Scientist with 4+ years of commercial experience in analytics, strategy and sales and a master's degree in Data Science from Oxford University. Previously at Vodafone, VIMA Group (management consulting), Ovo Energy, HSBC.
+  <br><br>
+  Ranked in top 10% of undergraduate cohort at Cambridge University.
+  <br><br>
+  <a href="https://www.linkedin.com/in/fathin-afif/">View my LinkedIn Profile</a>
+
 theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
+google_analytics: # your Google Analytics tracking ID here
+
+colors:
+  crimson: "#900C3F"
