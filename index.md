@@ -36,7 +36,7 @@ I cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, p
 
 ---
 
-### Seattle Airbnb Market Analysis with Tableau
+### Seattle Airbnb Market Analysis
 
 Used Tableau to analyze Seattle Airbnb data and create research dashboards with insights on the best locations to buy a home for Airbnb businesses, purchase and rent prices by area, and customer price ranges by bedrooms. 📈🌟 The dashboard includes bar and geo maps, line graphs, and tables to help clients make informed decisions on starting an Airbnb business. 💻🏡
 
@@ -61,7 +61,7 @@ Automated Samsung SmartTag price tracking using Python script 🤖📈. Utilized
 
 ---
 
-### Python BMI Calculator
+### Building BMI Calculator
 
 BMI Calculator with Python on Jupyter Notebook to track my health 🏋️‍♀️💪. It asks for name, weight in kg, and height in meters, and gives BMI score and category (normal, overweight, obese).
 
