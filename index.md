@@ -51,7 +51,7 @@ Used Tableau to analyze Seattle Airbnb data and create research dashboards with 
 
 ---
 
-### Samsung SmartTag Price Tracker Script using Python and BeautifulSoup
+### Samsung SmartTag Price Tracker from Amazon Page
 
 Automated Samsung SmartTag price tracking using Python script 🤖📈. Utilized BeautifulSoup & Requests libraries to extract data from Amazon webpage, and pandas library to monitor the data easily 📊. The script runs a while loop every 20 seconds to ensure periodic updates ⏰.
 
