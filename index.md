@@ -73,9 +73,12 @@ BMI Calculator with Python on Jupyter Notebook to track my health 🏋️‍♀�
 
 ---
 
-## Skills-based projects
+<!-- ## Skills-based projects
 
 A selection of smaller projects demonstrating specific data analysis skills.
 
--
--
+- Nashville Housing Data Cleaning
+- Seattle Airbnb Market Analysis with Tableau
+- Samsung SmartTag Price Tracker Script using Python and BeautifulSoup
+- Python BMI Calculator
+-->
