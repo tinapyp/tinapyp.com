@@ -59,19 +59,17 @@ Automated Samsung SmartTag price tracking using Python script 🤖📈. Utilized
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
 
-[View code on Github](https://github.com/fathinafif/Amazon_Web_Scraper)
+[View code on Github](https://github.com/fathinafif/Samsung_SmartTag_Price_Tracker)
 
 ---
 
-### Interpretable machine learning: Parital Dependence Plots, LIME and Shapley values
+### Python BMI Calculator
 
-A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models.
+BMI Calculator with Python on Jupyter Notebook to track my health 🏋️‍♀️💪. It asks for name, weight in kg, and height in meters, and gives BMI score and category (normal, overweight, obese).
 
-<img src="images/interpretable.png?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
+[View code on Github](https://github.com/fathinafif/BMI_Calculator)
 
 ---
 
