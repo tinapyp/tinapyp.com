@@ -14,18 +14,6 @@ Using Excel to analyze bicycle sales data from a dataset. First, clean up and st
 
 ---
 
-### Cyclist Bike Share Analysis
-
-Using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. 🚲📱Our goal is to understand annual vs. regular riders and how digital media can increase membership. 📊📉Insights will be used to develop marketing campaigns and improve the user experience. 🚴‍♂️📈 Data is from Amazon Web Services.
-
-<img src="images\Cyclistic1.jpg?raw=true" />
-
-[![](images\Excel.png)](#)
-
-[View more on Notion](https://silicon-garden-1fa.notion.site/Analyzing-Cyclistic-Bike-Share-Data-f7908dca87414eefbbae8a850259b46c)
-
----
-
 ### E-Commerce One Year Sales Analysis
 
 🛍️📈Using SQL and Tableau, I analyzed sales data from an E-commerce dataset on Google Cloud for Aug 2021-Aug 2022.💻 Data analysis skills from Revou Mini Course were applied. The big data reveals trends and patterns, useful for improving business performance, campaigns, and decision-making.
@@ -87,6 +75,7 @@ BMI Calculator with Python on Jupyter Notebook to track my health 🏋️‍♀�
 
 A selection of smaller projects demonstrating specific data analysis skills.
 
+- Cyclist Bike Share Analysis
 - Nashville Housing Data Cleaning Using SQL
 - Seattle Airbnb Market Analysis Using Tableau
 - Samsung SmartTag Price Tracker Script using Python and BeautifulSoup
