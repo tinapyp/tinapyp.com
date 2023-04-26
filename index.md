@@ -2,7 +2,7 @@
 
 ---
 
-### Analyzing Bike Sale Data
+### Bike Sales Anlaysis
 
 Using Excel to analyze bicycle sales data from a dataset. First, clean up and standardize column names, remove duplicates, and create age brackets. Then, create pivot tables and graphs to summarize earnings by gender, sales by distance, and top 5 sales by age group. Finally, develop interactive dashboards to provide valuable insights that can help businesses make data-driven decisions. 🚴‍♂️🚴‍♀️📈📊
 
@@ -14,7 +14,7 @@ Using Excel to analyze bicycle sales data from a dataset. First, clean up and st
 
 ---
 
-### Analyzing Cyclist Bike Share Data
+### Cyclist Bike Share Analysis
 
 Using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. 🚲📱Our goal is to understand annual vs. regular riders and how digital media can increase membership. 📊📉Insights will be used to develop marketing campaigns and improve the user experience. 🚴‍♂️📈 Data is from Amazon Web Services.
 
@@ -26,7 +26,7 @@ Using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. �
 
 ---
 
-### Analyzing One Year of E-Commerce Sales Data
+### E-Commerce One Year Sales Analysis
 
 🛍️📈Using SQL and Tableau, I analyzed sales data from an E-commerce dataset on Google Cloud for Aug 2021-Aug 2022.💻 Data analysis skills from Revou Mini Course were applied. The big data reveals trends and patterns, useful for improving business performance, campaigns, and decision-making.
 
