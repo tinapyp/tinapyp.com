@@ -10,7 +10,7 @@ Using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. ðŸ
 
 [![](images\Excel.png)](#)
 
-[View more on Kaggle](https://www.kaggle.com/code/fathinafif/cyclistic-google-data-analytics-capstone-project)
+[View more on Notion](https://silicon-garden-1fa.notion.site/Analyzing-Cyclistic-Bike-Share-Data-f7908dca87414eefbbae8a850259b46c)
 
 ---
 
