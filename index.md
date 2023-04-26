@@ -36,9 +36,9 @@ Cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, pop
 
 ---
 
-### Seattle Airbnb Market Analysis
+### Seattle Airbnb Market Dashboard
 
-Used Tableau to analyze Seattle Airbnb data and create research dashboards with insights on the best locations to buy a home for Airbnb businesses, purchase and rent prices by area, and customer price ranges by bedrooms. 📈🌟 The dashboard includes bar and geo maps, line graphs, and tables to help clients make informed decisions on starting an Airbnb business. 💻🏡
+Used Tableau to create research Seattle Airbnb Dashboard with insights on the best locations to buy a home for Airbnb businesses, purchase and rent prices by area, and customer price ranges by bedrooms. 📈🌟 The dashboard includes bar and geo maps, line graphs, and tables to help clients make informed decisions on starting an Airbnb business. 💻🏡
 
 <img src="images\Airbnb_Dashboard.png?raw=true" />
 
