@@ -4,6 +4,18 @@
 
 ### Analyzing Cyclist Bike Share Data
 
+Using Excel to analyze bicycle sales data from a dataset. First, clean up and standardize column names, remove duplicates, and create age brackets. Then, create pivot tables and graphs to summarize earnings by gender, sales by distance, and top 5 sales by age group. Finally, develop interactive dashboards to provide valuable insights that can help businesses make data-driven decisions. 🚴‍♂️🚴‍♀️📈📊
+
+<img src="images\AnalyzingBikeSaleData.png?raw=true" />
+
+[![](images\Excel.png)](#)
+
+[View more on Notion](https://silicon-garden-1fa.notion.site/Analyzing-Bike-Sale-Data-96ef32162cc543b5a2ef87c71f87e797)
+
+---
+
+### Analyzing Cyclist Bike Share Data
+
 Using Excel to analyze Cyclistic bike-sharing data from Nov 2022 to Jan 2023. 🚲📱Our goal is to understand annual vs. regular riders and how digital media can increase membership. 📊📉Insights will be used to develop marketing campaigns and improve the user experience. 🚴‍♂️📈 Data is from Amazon Web Services.
 
 <img src="images\Cyclistic1.jpg?raw=true" />
