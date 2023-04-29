@@ -73,7 +73,7 @@ Automated Samsung SmartTag price tracking using Python script 🤖📈. Utilized
 
 ## Another projects
 
-A selection of smaller projects demonstrating data analysis skills.
+A selection of smaller projects demonstrating data analysis skills:
 
 - <a href="https://silicon-garden-1fa.notion.site/Cyclistic-Bike-Share-Analysis-f7908dca87414eefbbae8a850259b46c">Cyclist Bike Share Analysis</a> - Excel
 - <a href="https://github.com/fathinafif/DataProfessionalSurveyDashboard">Professional Survey Dashboard</a> - PowerBI
