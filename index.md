@@ -51,6 +51,16 @@ Used Tableau to create research Seattle Airbnb Dashboard with insights on the be
 
 ---
 
+### Crypto Data Puller Using Coin Market Cap API
+
+This project automates pulling the latest cryptocurrency data from Coin Market Cap API & stores it in a CSV file 📈. It requires Python 3.6+ & libraries: Pandas, Seaborn, Matplotlib, Requests. The script cleans & visualizes data for selected cryptos (Bitcoin, Ethereum, Dogecoin & Solana). 🚀
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+
+[View code on Github](https://github.com/fathinafif/CryptoDataPullerUsingAPI)
+
+---
+
 ### Samsung SmartTag Price Tracker from Amazon Page
 
 Automated Samsung SmartTag price tracking using Python script 🤖📈. Utilized BeautifulSoup & Requests libraries to extract data from Amazon webpage, and pandas library to monitor the data easily 📊. The script runs a while loop every 20 seconds to ensure periodic updates ⏰.
@@ -58,16 +68,6 @@ Automated Samsung SmartTag price tracking using Python script 🤖📈. Utilized
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#)
 
 [View code on Github](https://github.com/fathinafif/Samsung_SmartTag_Price_Tracker)
-
----
-
-### Building BMI Calculator
-
-BMI Calculator with Python on Jupyter Notebook to track my health 🏋️‍♀️💪. It asks for name, weight in kg, and height in meters, and gives BMI score and category (normal, overweight, obese).
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
-
-[View code on Github](https://github.com/fathinafif/BMI_Calculator)
 
 ---
 
