@@ -71,13 +71,11 @@ Automated Samsung SmartTag price tracking using Python script 🤖📈. Utilized
 
 ---
 
-<!-- ## Skills-based projects
+## Another projects
 
-A selection of smaller projects demonstrating specific data analysis skills.
+A selection of smaller projects demonstrating data analysis skills.
 
-- Cyclist Bike Share Analysis
-- Nashville Housing Data Cleaning Using SQL
-- Seattle Airbnb Market Analysis Using Tableau
-- Samsung SmartTag Price Tracker Script using Python and BeautifulSoup
-- BMI Calculator Using Python
--->
+- <a href="https://silicon-garden-1fa.notion.site/Cyclistic-Bike-Share-Analysis-f7908dca87414eefbbae8a850259b46c">Cyclist Bike Share Analysis</a> | Excel
+- <a href="https://github.com/fathinafif/DataProfessionalSurveyDashboard">Professional Survey Dashboard</a> | PowerBI
+- <a href="https://github.com/fathinafif/automatic_file_sorterAutomatic">File Sorter in File Explorer</a> | Python
+- <a href="https://github.com/fathinafif/BMI_CALCULATOR">BMI Calculator</a> | Python
