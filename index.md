@@ -2,7 +2,7 @@
 
 ---
 
-### Bike Sales Anlaysis
+### Bike Sales Analysis
 
 Using Excel to analyze bicycle sales data from a dataset. First, clean up and standardize column names, remove duplicates, and create age brackets. Then, create pivot tables and graphs to summarize earnings by gender, sales by distance, and top 5 sales by age group. Finally, develop interactive dashboards to provide valuable insights that can help businesses make data-driven decisions. 🚴‍♂️🚴‍♀️📈📊
 
