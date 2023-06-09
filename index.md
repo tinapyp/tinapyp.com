@@ -42,7 +42,7 @@ Cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, pop
 
 <img src="images\kimia_farma_sales_report_dashboard.png" />
 
-[![](images\looker.png)](#)
+[![](images\SQL.png)](#) [![](images\looker.png)](#)
 
 [View Dashboard on Tableau](https://public.tableau.com/app/profile/fathin.afif/viz/2016SeattleWashingtonUnitedStatesAirbnb/Dashboard1#3)
 <br>
