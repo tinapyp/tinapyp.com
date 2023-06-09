@@ -2,18 +2,6 @@
 
 ---
 
-### E-Commerce One Year Sales Analysis
-
-🛍️📈Using SQL and Tableau, I analyzed sales data from an E-commerce dataset on Google Cloud for Aug 2021-Aug 2022.💻 Data analysis skills from Revou Mini Course were applied. The big data reveals trends and patterns, useful for improving business performance, campaigns, and decision-making.
-
-<img src="images\E-com.png?raw=true" />
-
-[![](images\SQL.png)](#) [![](images\tableau.png)](#)
-
-[View code on Github](https://github.com/fathinafif/E-Commerce_Sales_Analysis)
-
----
-
 ### Bike Sales Analysis
 
 Using Excel to analyze bicycle sales data from a dataset. First, clean up and standardize column names, remove duplicates, and create age brackets. Then, create pivot tables and graphs to summarize earnings by gender, sales by distance, and top 5 sales by age group. Finally, develop interactive dashboards to provide valuable insights that can help businesses make data-driven decisions. 🚴‍♂️🚴‍♀️📈📊
@@ -23,6 +11,18 @@ Using Excel to analyze bicycle sales data from a dataset. First, clean up and st
 [![](images\Excel.png)](#)
 
 [View more on Notion](https://silicon-garden-1fa.notion.site/Analyzing-Bike-Sale-Data-96ef32162cc543b5a2ef87c71f87e797)
+
+---
+
+### E-Commerce One Year Sales Analysis
+
+🛍️📈Using SQL and Tableau, I analyzed sales data from an E-commerce dataset on Google Cloud for Aug 2021-Aug 2022.💻 Data analysis skills from Revou Mini Course were applied. The big data reveals trends and patterns, useful for improving business performance, campaigns, and decision-making.
+
+<img src="images\E-com.png?raw=true" />
+
+[![](images\SQL.png)](#) [![](images\tableau.png)](#)
+
+[View code on Github](https://github.com/fathinafif/E-Commerce_Sales_Analysis)
 
 ---
 
