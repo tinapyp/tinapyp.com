@@ -44,10 +44,10 @@ Cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, pop
 
 [![](images\SQL.png)](#) [![](images\looker.png)](#)
 
-[View Dashboard on Tableau](https://public.tableau.com/app/profile/fathin.afif/viz/2016SeattleWashingtonUnitedStatesAirbnb/Dashboard1#3)
+[View Dashboard on Looker](https://lookerstudio.google.com/u/0/reporting/f4d9925e-4658-4d37-bda0-772ba811ab40/page/fnySD)
 <br>
 
-[View more on Notion](https://lnkd.in/gBbRfH-c)
+[View more on Github](https://github.com/fathinafif/SalesReportDashboard_KimiaFarma_VIX)
 
 ---
 
