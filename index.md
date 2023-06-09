@@ -2,18 +2,6 @@
 
 ---
 
-### Bike Sales Analysis
-
-Using Excel to analyze bicycle sales data from a dataset. First, clean up and standardize column names, remove duplicates, and create age brackets. Then, create pivot tables and graphs to summarize earnings by gender, sales by distance, and top 5 sales by age group. Finally, develop interactive dashboards to provide valuable insights that can help businesses make data-driven decisions. 🚴‍♂️🚴‍♀️📈📊
-
-<img src="images\AnalyzingBikeSaleData.png?raw=true" />
-
-[![](images\Excel.png)](#)
-
-[View more on Notion](https://silicon-garden-1fa.notion.site/Analyzing-Bike-Sale-Data-96ef32162cc543b5a2ef87c71f87e797)
-
----
-
 ### E-Commerce One Year Sales Analysis
 
 🛍️📈Using SQL and Tableau, I analyzed sales data from an E-commerce dataset on Google Cloud for Aug 2021-Aug 2022.💻 Data analysis skills from Revou Mini Course were applied. The big data reveals trends and patterns, useful for improving business performance, campaigns, and decision-making.
@@ -26,6 +14,18 @@ Using Excel to analyze bicycle sales data from a dataset. First, clean up and st
 
 ---
 
+### Bike Sales Analysis
+
+Using Excel to analyze bicycle sales data from a dataset. First, clean up and standardize column names, remove duplicates, and create age brackets. Then, create pivot tables and graphs to summarize earnings by gender, sales by distance, and top 5 sales by age group. Finally, develop interactive dashboards to provide valuable insights that can help businesses make data-driven decisions. 🚴‍♂️🚴‍♀️📈📊
+
+<img src="images\AnalyzingBikeSaleData.png?raw=true" />
+
+[![](images\Excel.png)](#)
+
+[View more on Notion](https://silicon-garden-1fa.notion.site/Analyzing-Bike-Sale-Data-96ef32162cc543b5a2ef87c71f87e797)
+
+---
+
 ### Nashville Housing Data Cleaning
 
 Cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, populating property addresses 🏠, breaking down addresses into separate columns 📍, converting "Y" or "N" to "Yes" or "No" in "Sold as Vacant" field ✅, removing duplicates 🔍, and deleting unused columns 🗑️. I used various SQL commands, including SELECT, FROM, WHERE, GROUP BY, ORDER BY, CAST, CONVERT, COUNT, JOIN, ALTER TABLE, UPDATE, CASE WHEN-THEN-END, DISTINCT, SUBSTRING, ROW_NUMBER() PARTITION BY(), WITH, and PARSENAME.
@@ -33,6 +33,21 @@ Cleaned the Nashville Housing dataset using SQL by standardizing dates 📅, pop
 [![](images\SQL.png)](#)
 
 [View code on Github](https://github.com/fathinafif/NashvilleHousing_DataCleaning)
+
+---
+
+### Kimia Farma Sales Report Dashboard
+
+📊 Designed and constructed a data mart through the creation of base and aggregate tables using MySQL Workbench. The base table integrated data from various sources, including sales 💰, customers 👥, and products 📦, while the aggregate table offered condensed information for streamlined analysis. Additionally, developed a sales report dashboard 📈 utilizing Looker Data Studio.
+
+<img src="images\kimia_farma_sales_report_dashboard.png" />
+
+[![](images\looker.jpg)](#)
+
+[View Dashboard on Tableau](https://public.tableau.com/app/profile/fathin.afif/viz/2016SeattleWashingtonUnitedStatesAirbnb/Dashboard1#3)
+<br>
+
+[View more on Notion](https://lnkd.in/gBbRfH-c)
 
 ---
 
@@ -47,7 +62,7 @@ Used Tableau to create research Seattle Airbnb Dashboard with insights on the be
 [View Dashboard on Tableau](https://public.tableau.com/app/profile/fathin.afif/viz/2016SeattleWashingtonUnitedStatesAirbnb/Dashboard1#3)
 <br>
 
-[View Documentation on Notion](https://lnkd.in/gBbRfH-c)
+[View more on Notion](https://lnkd.in/gBbRfH-c)
 
 ---
 
