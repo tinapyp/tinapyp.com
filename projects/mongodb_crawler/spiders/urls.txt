@@ -1,4 +1,0 @@
-# Removed actual list of URLs for privacy purposes
-https://example.com/example1,
-https://example.com/example2,
-etc.
