@@ -1,7 +1,7 @@
 <section class="w-full">
   <header class="px-4 lg:px-6 h-14 flex items-center max-w-7xl mx-auto">
     <a class="flex items-center justify-center" href="#">
-      <img src="/placeholder.svg" alt="Logo" class="h-8 w-8" />
+      <h1 class="text-center text-2xl font-bold">Tinapyp</h1>
       <span class="sr-only">Fathin Afif</span>
     </a>
     <nav class="ml-auto flex gap-4 sm:gap-6">
@@ -27,16 +27,16 @@
         </div>
         <div class="flex gap-6">
           <div>
-            <div class="text-3xl font-bold">15+</div>
+            <div class="text-3xl font-bold">30+</div>
             <div class="text-sm text-gray-500">Projects Built</div>
           </div>
-          <div>
+          <!--                            <div>
             <div class="text-3xl font-bold">5+</div>
             <div class="text-sm text-gray-500">Publications</div>
-          </div>
+          </div>                            -->
         </div>
         <div class="flex flex-col gap-2 min-[400px]:flex-row">
-          <a href="#" class="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background bg-primary text-primary-foreground hover:bg-primary/90 h-10 py-2 px-4">
+          <a href="https://github.com/tinapyp" target="_blank" class="inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:opacity-50 disabled:pointer-events-none ring-offset-background bg-primary text-primary-foreground hover:bg-primary/90 h-10 py-2 px-4">
             <i data-lucide="github" class="w-5 h-5 mr-2"></i>
             View GitHub
           </a>
@@ -48,9 +48,9 @@
       </div>
       <div class="flex items-center justify-center">
         <div class="relative w-[400px] h-[400px]">
-          <img src="/placeholder.svg" alt="Brand Logo" class="object-contain w-full h-full" />
+          <img src="{{ url_for('static', path='images/picofme.png') }}" alt="Brand Logo" class="object-contain w-full h-full" />
           <div class="absolute bottom-4 right-4 rounded-lg bg-white px-4 py-2 shadow-lg">
-            <div class="text-sm font-medium">5+ years of experience</div>
+            <div class="text-sm font-medium">1+ years of experience</div>
           </div>
         </div>
       </div>
